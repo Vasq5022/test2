@@ -17,9 +17,9 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## Including Plots 
 
-You can also embed plots, for example: CHANGE
+You can also embed plots, for example: CHANGE 2
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
